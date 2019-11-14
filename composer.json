@@ -1,5 +1,5 @@
 {
-    "name": "ghanem/reportable",
+    "name": "hirbod/reportable",
     "description": "Reportable Polymorphic Eloquent Models for Laravel 5",    
     "keywords": ["report", "laravel"],
     "license": "MIT",
